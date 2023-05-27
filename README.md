@@ -15,4 +15,4 @@ A digital business card made with React.js as the first solo project from Scrimb
 Clone this repo and run `npm install` to install the dependencies. Then run `npm run div` to start the application.
 
 ## License
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENCE)
