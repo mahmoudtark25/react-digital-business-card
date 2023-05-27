@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import mailIcon from '../assets/icons/mail.png'
 import linkedinIcon from '../assets/icons/linkedin.png'
 import cardImage from '../assets/avatar-profile.png'
