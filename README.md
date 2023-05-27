@@ -3,7 +3,7 @@ A digital business card made with React.js as the first solo project from Scrimb
 
 ## Screenshot
 <p align="center">
-  <img width="460" height="300" src="Digital-Business-Card.png">
+  <img src="Digital-Business-Card.png">
 </p>
 
 ## What I learned
