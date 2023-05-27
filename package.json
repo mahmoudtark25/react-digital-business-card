@@ -1,9 +1,11 @@
 {
+  "homepage": "https://github.com/mahmoudtark25/react-digital-business-card",
   "name": "react-digital-business-card",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
